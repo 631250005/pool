@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/tpruvot/yiimp.svg?branch=next)](https://travis-ci.org/tpruvot/yiimp)
 
 #yiimp - yaamp fork
@@ -135,3 +136,7 @@ You can support this project donating to tpruvot :
 
 BTC : 1Auhps1mHZQpoX4mCcVL8odU81VakZQ6dR
 
+=======
+# pool
+pool
+>>>>>>> e21a13643e9cabbc6eaad57e7f108a4bb48a3f19
